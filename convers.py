@@ -1,6 +1,6 @@
 print ("input a decimal number: ")
 num10 = int(input())
-print ("input a base of conversion (from 2 to 9): ")
+print ("input a base of conversion (from 2 to 16): ")
 basenum = int (input ())
 num2 = ''
 dic = {10 : 'A', 11 : 'B', 12 : 'C', 13 : 'D', 14 : 'E', 15 : 'F'}
