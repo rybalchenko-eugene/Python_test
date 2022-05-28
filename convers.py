@@ -1,4 +1,6 @@
+
 # перевод числа из одной систмы счисления в десятиричную
+
 print ("input a decimal number: ")
 num10 = int(input())
 print ("input a base of conversion (from 2 to 16): ")
